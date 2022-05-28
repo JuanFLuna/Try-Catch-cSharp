@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Programa_Try-Catch\Programa_Try-Catch\obj\Debug\Programa_Try-Catch.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Programa_Try-Catch\Programa_Try-Catch\obj\Debug\Programa_Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Programa_Try-Catch\Programa_Try-Catch\bin\Debug\Programa_Try-Catch.exe.config
+C:\Users\DELL\source\repos\Programa_Try-Catch\Programa_Try-Catch\bin\Debug\Programa_Try-Catch.exe
+C:\Users\DELL\source\repos\Programa_Try-Catch\Programa_Try-Catch\bin\Debug\Programa_Try-Catch.pdb
+C:\Users\DELL\source\repos\Programa_Try-Catch\Programa_Try-Catch\obj\Debug\Programa_Try-Catch.exe
+C:\Users\DELL\source\repos\Programa_Try-Catch\Programa_Try-Catch\obj\Debug\Programa_Try-Catch.pdb
